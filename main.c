@@ -43,4 +43,5 @@ else if(m==4){
        
     }
     printf("종료됨");
+printf("hello");
 }
